@@ -1,0 +1,25 @@
+malloc 10
+malloc 5
+blocklist
+free 1
+malloc 5
+malloc 125
+free 13
+malloc 20
+free 8
+malloc 10
+malloc 10
+malloc 15
+free 8
+free 1
+free 20
+malloc 10
+free 1
+malloc 10
+writemem 1 HELLO
+printmem 1 5
+malloc 17
+free 1 
+invalid_cmd
+quit
+
