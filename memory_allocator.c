@@ -1,9 +1,6 @@
 /* ICS 53
  * Project: A Memory Allocator
  * Instructor: Ian Harris
- *
- * Student 1: Hongji Wu (ID: 32938089)
- * Student 2: Yi-Ju, Tsai (ID: 31208132)
  */
 
 #include <stdio.h>
